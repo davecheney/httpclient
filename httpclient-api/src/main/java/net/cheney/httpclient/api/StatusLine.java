@@ -9,7 +9,7 @@ import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 
 @Immutable
-public class StatusLine extends StartLine {
+public final class StatusLine extends StartLine {
 
 	private final Status status;
 
