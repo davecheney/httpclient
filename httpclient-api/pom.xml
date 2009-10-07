@@ -8,6 +8,7 @@
   <groupId>net.cheney.httpclient</groupId>
   <artifactId>httpclient-api</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <name>httpclient-api</name>
   <dependencies>
   	<dependency>
   		<groupId>commons-lang</groupId>
